@@ -36,5 +36,3 @@ comments:                    # embed disqus or isso comments
 
 plugins: 
  - jekyll-feed
- - jekyll-paginate
- - jekyll-default-layout
