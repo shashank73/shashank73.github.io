@@ -24,10 +24,10 @@ navigation:                  # (optional) site navigation in the header
   - about.md
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
-  envelope: "mailto:ss.shashank731@gmail.com"
+  envelope: "mailto:er.shashank10@gmail.com"
   linkedin: "https://www.linkedin.com/in/shashank-shekhar10/"
   kaggle: "https://www.kaggle.com/stagnos"
-  github: "https://github.com/shashank73"
+  github: "https://github.com/snsten"
   rss: "/feed.xml"
 
 comments:                    # embed disqus or isso comments
